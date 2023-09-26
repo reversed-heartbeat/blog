@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://reversed-heartbeat.github.io/blog/'
 languageCode = 'en-us'
 title = 'Hugo on Github'
 theme = 'ga-hugo-theme'
